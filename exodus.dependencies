@@ -4,12 +4,7 @@
     "target_path": "kernel/mediatek/sprout"
   },
   {
-    "repository": "packages_apps_FMRadio",
-    "target_path": "packages/apps/FMRadio"
-  },
-  {
     "repository": "vendor_google_sprout",
     "target_path": "vendor/google/sprout"
   }
- 
 ]
